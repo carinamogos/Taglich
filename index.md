@@ -2,12 +2,12 @@
 
 
 ### The team
+- Cheles Bogdan - _Backend Developer_
 - Despotovici Mihai - _Product Owner_
 - Dorneanu Anda-Alexandra - _Backend Developer_
 - Mogos Carina - _Project Manager_
-- Zegheru Horia - _Backend Developer_
 - Vijeac Cristian - _Frontend Developer_
-- Cheles Bogdan - _Backend Developer_
+- Zegheru Horia - _Backend Developer_
 
 ### Problem: Shortage of daily workers
 Daily workers are hard to find these days. These have to do a job in a relatively short and limited time, but the amount of time needed to find one might be bigger than the actual time needed to just to the job. Moreover, the daily workers are not very happy with this situation because their clients tend to be lazy and get a well known company to do the job instead of searching for a good daily worker.
