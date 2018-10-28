@@ -37,18 +37,18 @@ We will impose our daily workers a fee which represents a percentage of their ea
 ### Validation
 We made 2 type of questionarries:
 
-## CLIENT
+#### CLIENT
 
 We expect a client would use our app at least twice a month. Our predictive persona would be employed, older than 24 and would optionally have children.
 He / she would be living in a city with more than 200.000 inhabitants, which would make it more difficult to know particular "daily workers" that they would reach out to in order to solve various problems. Also, living in a big city would mean that our person will be more socially involved (goes out often, has many outdoor opportunities, so spends little time home with children / cleaning).
 
-# Questions for clients:
+##### Questions for clients:
 1. How old are you?
     Answers: 23 - 38 years.
 2. Are you employed?
     Answers: 94% of them were employed.
 
-# Yes/No answers:
+##### Yes/No answers:
 
 | Question                                                                                                                                                 | Expected YES | Answered YES |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
@@ -59,15 +59,15 @@ He / she would be living in a city with more than 200.000 inhabitants, which wou
 | In general, I prefer to reach out to professional workers for any sort of job (Cleaning, Babysitting, Plumber, Electrician etc) rather than improvising. | > 40% (7)    | 14 (77%)     |
 
 
-## WORKER
+#### WORKER
 
 We expect a worker would also find it difficult to find customers, would use the app for a small fee in order to get rid of the searching process, especially since he / she would have the opportunity to set the price for the service offered.
 
-# Questions for workers:
+##### Questions for workers:
 1. How often do you have to look for customers because there is no work to do at the moment? expected more often than three times a week
     Answers: 80% of them answered “often” and 20% answered “never”.
 
-# Yes/No answers:
+##### Yes/No answers:
 
 | Question                                                                                                                                            | Expected YES | Answered YES |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
@@ -76,7 +76,7 @@ We expect a worker would also find it difficult to find customers, would use the
 | If a matching app for clients <-> workers existed, I would give up a small percentage of my earnings instead of struggling to search for customers. | > 40%        | 4 (80%)      |
 | If I were to be given a 1 month free trial and then be prompted to subscribe, I would at least try the app                                          | > 80%        | 4 (80%)      |
 
-## Comments:
+#### Comments:
 We gave this questionnaire to 18 clients: students, coleagues from work and some friends. Also, we asked 5 people who work as freelancers or do some kind of work on their own and gave them the questionnaire for workers. We asked all of them to be as honest as possible.
 Even though the clients didn’t answer as expected the second question, the answers for the last question made us think that they try at first to fix alone the broken things, but, in the final, they know that they need professional help. The fact that all of them answered that they don’t know how to reach any kind of professional help indicates that they really need our application.
 The workers’ answers were unexpectedly uniform: 4 of 5 don’t have enough clients and would need our application, but one of them is very sure that he has enough clients and don’t need more. This strongly encourages us to move to the next step.
