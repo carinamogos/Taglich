@@ -81,3 +81,5 @@ We gave this questionnaire to 18 clients: students, coleagues from work and some
 Even though the clients didn’t answer as expected the second question, the answers for the last question made us think that they try at first to fix alone the broken things, but, in the final, they know that they need professional help. The fact that all of them answered that they don’t know how to reach any kind of professional help indicates that they really need our application.
 The workers’ answers were unexpectedly uniform: 4 of 5 don’t have enough clients and would need our application, but one of them is very sure that he has enough clients and don’t need more. This strongly encourages us to move to the next step.
 
+### [Wireframe](./Wireframe.pdf)
+
