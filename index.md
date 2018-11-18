@@ -139,12 +139,12 @@ Background:
 3. As a worker, I would like a list of clients to be displayed so I can choose a job based on the address in order to optimize
 the routes.
 
- #### User flows:
+#### User flows:
 
 Client: Registers -> fills in profile details when he/she has a problem -> picks a problem from a list and is inserted into a list that
 the workers can see -> is matched to a worker -> accepts/denies -> can rate the worker.
 Worker: Registers -> fills his job type -> chooses a client from a list -> can be rated
 
-### Landing page
+#### Landing page
 
 https://mailchi.mp/f3d08dd10b08/taglich
