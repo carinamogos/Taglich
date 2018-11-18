@@ -145,4 +145,6 @@ Client: Registers -> fills in profile details when he/she has a problem -> picks
 the workers can see -> is matched to a worker -> accepts/denies -> can rate the worker.
 Worker: Registers -> fills his job type -> chooses a client from a list -> can be rated
 
+### Landing page
 
+https://mailchi.mp/f3d08dd10b08/taglich
