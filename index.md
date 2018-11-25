@@ -148,3 +148,22 @@ Worker: Registers -> fills his job type -> chooses a client from a list -> can b
 #### Landing page
 
 https://mailchi.mp/f3d08dd10b08/taglich
+
+#### Sub-markets
+We address 2 different sub-markets, namely:
+workers: people willing to find a daily job using our application
+clients: people willing to find a daily worker suited to their needs and expectations through our platform
+
+#### Competitors
+In the targeted market we do not have direct competition, due to the fact that at the current moment there are no dedicated platforms for the problem we address. However, there are 3 online platforms which allow users to publish different announcements and our targeted clients and workers may use these platforms too.
+
+The competions
+*La jumate
+*OLX
+*Publi24
+
+#### Our estimated potential market share in year 1, 2, 3, 4 and 5 after launch
+We estimate that our potential market share in the next 5 years will be 100%, considering that there are no direct competitors. In case there will be similar applications, we will reestimate the market share, according to the given context. 
+
+#### The total market value and the value of our market share for years 1, 2, 3, 4, 5
+
